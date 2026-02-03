@@ -1,0 +1,2 @@
+# JMA_hypodata_tocsv
+気象庁の震源データをcsv化するツール
